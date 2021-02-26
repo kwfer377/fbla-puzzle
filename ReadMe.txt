@@ -1,0 +1,1 @@
+recommended reolution: 1280x720
